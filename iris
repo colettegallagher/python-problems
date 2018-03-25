@@ -1,0 +1,8 @@
+# Colette Gallagher, 19/03/18
+# Excercise 5 Iris Data Set
+
+print('Petal Length', 'Petal Width', 'Sepal Length' , 'Sepal Width')
+
+with open("data/iris.csv") as f:
+  for line in f:   
+    print(line.split(',')
