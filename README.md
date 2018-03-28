@@ -2,7 +2,7 @@
 This repositary contains Python exercises for Programming & Scripting, Higher Diploma in Computing Data Analytics, GMIT.
 All exercises are written using [python](https://www.python.org/)
 
-**How to run this code**
+**How to run this code:**
 1. Download Python
 2. Install Python
 
@@ -11,7 +11,7 @@ All exercises are written using [python](https://www.python.org/)
 ## Exercise 1 & 2
 Are contained in **Tests.py**
 
-This is the script for Exercise 2 which displays Fibonacci numbers using peoples names.
+This is the script for Exercise 2 which displays [Fibonacci numbers](https://en.wikipedia.org/wiki/Fibonacci_number) using peoples names.
 In the comment box is the answer to Exercise 2 and the defination of Ord().
 The comment box also contains the answer to Exercise 1 which is the Fibonacci number for my name.
 
