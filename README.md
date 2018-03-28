@@ -28,8 +28,7 @@ This script calculates the answer to [Euler Problem 5](https://projecteuler.net/
 ## Exercise 5
 Is contained in **Iris.py**
 
-This script converts [Fisher's Iris Flower Dataset](https://en.wikipedia.org/wiki/Iris_flower_data_set) into a tabular format.  The background and an explanation of the Iris Dataset are included in the comment box.
-
+This script converts [Ronald Fisher's](https://en.wikipedia.org/wiki/Ronald_Fisher)[Iris Flower Dataset](https://en.wikipedia.org/wiki/Iris_flower_data_set) into a tabular format.  
 
 ## Exercise 6
 Is contained in **Factorial.py**
