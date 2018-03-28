@@ -8,7 +8,7 @@ All exercises are written using [python](https://www.python.org/)
 
 # *Contents*
 
-## Exercise 1 & 2
+## Exercises 1 & 2
 Are contained in **Tests.py**
 
 This is the script for Exercise 2 which displays [Fibonacci numbers](https://en.wikipedia.org/wiki/Fibonacci_number) using peoples names.
