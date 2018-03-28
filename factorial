@@ -1,4 +1,4 @@
-# Colette Gallagher, 25/03/18
+# Colette Gallagher, 2018-03-28
 # Excercise 6 Factorial
 
 def Factorial(upto):
