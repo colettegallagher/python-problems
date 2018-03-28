@@ -6,10 +6,10 @@ All exercises are written using [python](https://www.python.org/)
 Are contained in **Tests.py**
 
 ## Exercise 3
-Is contained in **Euler5.py**
+Is contained in **Collatz.py**
 
 ## Exercise 4
-Is contained in **Collatz.py**
+Is contained in **Euler5.py**
 
 ## Exercise 5
 Is contained in **Iris**
