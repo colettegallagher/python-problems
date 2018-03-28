@@ -33,3 +33,5 @@ This script converts [Ronald Fisher's](https://en.wikipedia.org/wiki/Ronald_Fish
 ## Exercise 6
 Is contained in **Factorial.py**
 
+This script calculates the [Factorial](https://en.wikipedia.org/wiki/Factorial) of the numbers 5, 7 and 10 by defining the factorial [function](https://www.tutorialspoint.com/python/python_functions.htm).  This Function takes a single input/argument which is a positive integer and returns its factorial. The factorial of a number is that number multiplied by all of the positive numbers less than it. 
+
