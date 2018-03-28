@@ -1,5 +1,6 @@
 # Colette Gallagher, 2018-02-11
 # URL: https://en.wikipedia.org/wiki/Collatz_conjecture
+# https://stackoverflow.com/questions/33508034/making-a-collatz-program-automate-the-boring-stuff
 
 n = 17
 # Starting integer is 17
