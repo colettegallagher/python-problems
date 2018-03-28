@@ -1,4 +1,5 @@
-# Ian McLoughlin
+# Colette Gallagher, 08/02/18
+# https://github.com/ianmcloughlin/python-fib/blob/master/fibname.py
 # A program that displays Fibonacci numbers using people's names.
 
 def fib(n):
