@@ -35,3 +35,4 @@ factorial_of_int = factorial(int)
 print("The factorial of", (int), "is ", (factorial_of_int))
 # prints the factorial of the number 10 which equals 3628800
 
+
